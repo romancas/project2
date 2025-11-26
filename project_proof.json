@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-11-26T11:48:13.116667",
+    "project_folder": "c:\\Users\\Prodej\\Documents\\chasovskikh_2025_11_26",
+    "project_folder_hash": "1ce14158138e427b34eff7eff4ac145158982cb4e43d6d29ead6d876f89667d4",
+    "python_executable": "C:\\Users\\Prodej\\Documents\\chasovskikh_2025_11_26\\venv\\Scripts\\python.exe",
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "public_ip": "195.39.44.178",
+    "local_ip": "172.16.1.135",
+    "unique_token": "c63e443966a40cbc2b5e4b2ff1ba9119ebb7be1258c8d715ba5f1f0c9aeacd9d",
+    "system_info": {
+        "os": "Windows",
+        "os_version": "10.0.26100",
+        "machine": "AMD64",
+        "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"
+    }
+}
